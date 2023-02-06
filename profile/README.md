@@ -18,7 +18,7 @@ If you want to join us, you can contact [Louis | Doggy#1337](https://discordapp.
 # Our projects
 
 Currently none of our projects are public, but we are working on it. and you'll be able to see them soon. Here is a list of our current ongoing projects :
-- (FiveM) Pulsar Framework (🚧 WIP)
+- (FiveM) [Pulsar Framework](https://github.com/pulsar-framework/pulsar-framework) (🚧 WIP)
 
 # How to contribute ?
 
