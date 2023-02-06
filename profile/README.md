@@ -39,4 +39,4 @@ If you want to contribute to our projects, you can [join our discord server](htt
 # Useful links
 
 - [Discord server](http://join.pulsar-framework.com)
-- [Website](https://pulsar-framework.com)
+- [Website](http://pulsar-framework.com)
