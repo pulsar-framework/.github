@@ -24,7 +24,7 @@ Currently none of our projects are public, but we are working on it. and you'll 
 
 If you want to contribute to our projects, you can [join our discord server](http://join.pulsar-framework.com) and contact us. We will be happy to help you and answer your questions !
 
-# Our team
+# Our public team members
 
 - Founder [Louis](https://github.com/grdlo) - [discord](https://discordapp.com/users/219536752543531018)
 
