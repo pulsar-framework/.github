@@ -26,8 +26,6 @@ If you want to contribute to our projects, you can [join our discord server](htt
 
 # Our public team members
 
-- Founder [Louis](https://github.com/grdlo) - [discord](https://discordapp.com/users/219536752543531018)
-
 # Useful links
 
 - [Discord server](http://join.pulsar-framework.com)
