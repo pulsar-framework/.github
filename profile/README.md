@@ -11,10 +11,6 @@ We aim to create tools for the community wich will give them the possibility to 
 
 We are working on a framework for the game FiveM, and we are also working on a lot of other projects. Currently none of our projects are public, but we are working on it. and you'll be able to discover them soon. If you want to know more about our projects, [join our discord server](http://join.pulsar-framework.com).
 
-# How to join us ?
-
-If you want to join us, you can contact [Louis | Doggy#1337](https://discordapp.com/users/219536752543531018) on discord, or you can [join our discord server](http://join.pulsar-framework.com).
-
 # Our projects
 
 Currently none of our projects are public, but we are working on it. and you'll be able to see them soon. Here is a list of our current ongoing projects :
